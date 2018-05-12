@@ -1,9 +1,13 @@
 _repo: Dolly-and-Molly-and-the-Farmer-Man_50862
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Beem, Frances
     gutenberg_agent_id: '46115'
     url: http://www.gutenberg.org/2009/agents/46115
+covers:
+- cover_type: archival
+  image_path: 50862-h/images/cover.jpg
 creator:
   author:
     agent_name: Gordon, Elizabeth
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '44043'
     url: http://www.gutenberg.org/2009/agents/44043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50862#Dolly-and-Molly-and-the-Farmer-Man
 gutenberg_issued: '2016-01-07'
 gutenberg_type: Text
 identifiers:
